@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "todoshka",
+    "name": "ToDO List",
     "slug": "todoshka",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.adik_creator.todoshka"
     },
     "web": {
       "favicon": "./assets/favicon.png"
